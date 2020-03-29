@@ -91,6 +91,12 @@ footer {
   color: #ff4e0e;
 }
 
+#calulator .op__key:hover, #calulator .op__key:active,
+#calulator #equals:hover,
+#calulator #equals:active {
+  background: #ffb79c;
+}
+
 #calulator .AC {
   width: 115px;
   -ms-grid-column: 1;

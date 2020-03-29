@@ -88,6 +88,11 @@ footer {
   .op__key,
   #equals {
     color: #ff4e0e;
+
+    &:hover,
+    &:active {
+      background: #ffb79c;
+    }
   }
 
   .AC {
